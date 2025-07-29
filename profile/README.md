@@ -44,15 +44,11 @@ To gamify and socialize DeFi education through beautifully crafted, reward-drive
 ## 🌐 Our Socials
 
 <div align="center">
-  <a href="https://dequizfi.xyz" style="margin-right:16px;">
-    ![Website](https://img.shields.io/badge/Website-dequizfi.xyz-purple?style=for-the-badge)
-  </a>
-  <a href="https://warpcast.com/dequizfi" style="margin-right:16px;">
-    ![Farcaster](https://img.shields.io/badge/Farcaster-@dequizfi-8e44ad?style=for-the-badge)
-  </a>
-  <a href="https://twitter.com/dequizfi">
-    ![Twitter](https://img.shields.io/badge/Twitter-@dequizfi-1DA1F2?style=for-the-badge&logo=twitter)
-  </a>
+
+[![Website](https://img.shields.io/badge/Website-dequizfi.xyz-purple?style=for-the-badge)](https://dequizfi.xyz)  
+[![Farcaster](https://img.shields.io/badge/Farcaster-@dequizfi-8e44ad?style=for-the-badge)](https://warpcast.com/dequizfi)  
+[![Twitter](https://img.shields.io/badge/Twitter-@dequizfi-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dequizfi)
+
 </div>
 
 ---
