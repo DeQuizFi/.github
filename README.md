@@ -50,18 +50,6 @@ To gamify and socialize DeFi education through beautifully crafted, reward-drive
 
 ---
 
-## 📈 Milestones (Target by Month 3)
-
-| Metric | Goal |
-|--------|------|
-| Monthly Active Users | 5,000 |
-| Avg Quizzes / User | 3+ |
-| MRR from Premium + Tournaments | $5,000 |
-| Farcaster Channel Members | 500 |
-| Twitter Followers | 2,500 |
-
----
-
 ## 🌐 Connect With Us
 
 <div align="center">
