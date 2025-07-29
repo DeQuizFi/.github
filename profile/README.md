@@ -34,10 +34,10 @@ To gamify and socialize DeFi education through beautifully crafted, reward-drive
 
 | Repository        | Description | Tech Stack |
 |-------------------|-------------|------------|
-| **[webapp](https://github.com/DeQuizFi/webapp)**       | Core web application using Next.js 15 App Router | Next.js, TailwindCSS, shadcn/ui |
-| **[quiz-engine](https://github.com/DeQuizFi/quiz-engine)** | Quiz logic, scoring, progress tracking | TypeScript, Node.js |
-| **[api](https://github.com/DeQuizFi/api)**           | Premium API for quiz access, stats, integrations | Node.js, PostgreSQL, Prisma |
-| **[site](https://github.com/DeQuizFi/site)**         | Public website, documentation & marketing | Next.js, TailwindCSS |
+| **[webapp](https://github.com/dequizifi/webapp)**       | Core web application using Next.js 15 App Router | Next.js, TailwindCSS, shadcn/ui |
+| **[quiz-engine](https://github.com/dequizifi/quiz-engine)** | Quiz logic, scoring, progress tracking | TypeScript, Node.js |
+| **[api](https://github.com/dequizifi/api)**           | Premium API for quiz access, stats, integrations | Node.js, PostgreSQL, Prisma |
+| **[site](https://github.com/dequizifi/site)**         | Public website, documentation & marketing | Next.js, TailwindCSS |
 
 ---
 
@@ -45,9 +45,9 @@ To gamify and socialize DeFi education through beautifully crafted, reward-drive
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-dequizfi.xyz-purple?style=for-the-badge)](https://dequizfi.xyz)  
-[![Farcaster](https://img.shields.io/badge/Farcaster-@dequizfi-8e44ad?style=for-the-badge)](https://warpcast.com/dequizfi)  
-[![Twitter](https://img.shields.io/badge/Twitter-@dequizfi-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dequizfi)
+[![Website](https://img.shields.io/badge/Website-dequizifi.xyz-purple?style=for-the-badge)](https://dequizifi.xyz)  
+[![Farcaster](https://img.shields.io/badge/Farcaster-@dequizifi-8e44ad?style=for-the-badge)](https://warpcast.com/dequizifi)  
+[![Twitter](https://img.shields.io/badge/Twitter-@dequizifi-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/dequizifi)
 
 </div>
 
