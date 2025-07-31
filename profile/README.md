@@ -1,11 +1,5 @@
 # DeQuiziFi
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Farcaster-Native-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DeFi-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Quiz%20Platform-Tokenized-orange?style=for-the-badge" />
-</div>
-
 ---
 
 ## 🧠 About DeQuiziFi
@@ -27,17 +21,6 @@ To gamify and socialize DeFi education through beautifully crafted, reward-drive
 - **Social Game Mechanics**: Streaks, badges, multiplayer showdowns, and leaderboards
 - **Developer APIs**: Premium access to quiz data, stats, and more
 - **Farcaster Auth + WalletConnect**: Native crypto-social login + seamless reward flow
-
----
-
-## 🛠️ Core Repositories
-
-| Repository        | Description | Tech Stack |
-|-------------------|-------------|------------|
-| **[webapp](https://github.com/dequizifi/webapp)**       | Core web application using Next.js 15 App Router | Next.js, TailwindCSS, shadcn/ui |
-| **[quiz-engine](https://github.com/dequizifi/quiz-engine)** | Quiz logic, scoring, progress tracking | TypeScript, Node.js |
-| **[api](https://github.com/dequizifi/api)**           | Premium API for quiz access, stats, integrations | Node.js, PostgreSQL, Prisma |
-| **[site](https://github.com/dequizifi/site)**         | Public website, documentation & marketing | Next.js, TailwindCSS |
 
 ---
 
